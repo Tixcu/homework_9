@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Formular-Bold';
+  src: url('Formular-Bold.eot');
+  src: url('Formular-Bold.woff2') format('woff2'),
+       url('Formular-Bold.woff') format('woff'),
+       url('Formular-Bold.ttf') format('truetype'),
+       url('Formular-Bold.svg#Formular-Bold') format('svg'),
+       url('Formular-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

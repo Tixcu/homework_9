@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Formular-Medium';
+  src: url('Formular-Medium.eot');
+  src: url('Formular-Medium.woff2') format('woff2'),
+       url('Formular-Medium.woff') format('woff'),
+       url('Formular-Medium.ttf') format('truetype'),
+       url('Formular-Medium.svg#Formular-Medium') format('svg'),
+       url('Formular-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
