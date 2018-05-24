@@ -1,2 +1,3 @@
 # homework_9
-Домашка
+Homework from ITC courses. Some simple html + css.
+
